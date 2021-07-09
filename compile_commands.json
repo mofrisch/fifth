@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=c++14 -o CMakeFiles/tests.dir/tests/test.cpp.o -c /Users/mo/Development/c-template/tests/test.cpp",
+  "file": "/Users/mo/Development/c-template/tests/test.cpp"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=c++14 -o CMakeFiles/tests.dir/tests/test2.cpp.o -c /Users/mo/Development/c-template/tests/test2.cpp",
+  "file": "/Users/mo/Development/c-template/tests/test2.cpp"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang  -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -o CMakeFiles/tests.dir/src/armstrong_numbers.c.o -c /Users/mo/Development/c-template/src/armstrong_numbers.c",
+  "file": "/Users/mo/Development/c-template/src/armstrong_numbers.c"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang++  -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=c++17 -o CMakeFiles/bench.dir/bench/main.cpp.o -c /Users/mo/Development/c-template/bench/main.cpp",
+  "file": "/Users/mo/Development/c-template/bench/main.cpp"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang  -isystem /opt/homebrew/include -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -o CMakeFiles/bench.dir/src/armstrong_numbers.c.o -c /Users/mo/Development/c-template/src/armstrong_numbers.c",
+  "file": "/Users/mo/Development/c-template/src/armstrong_numbers.c"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang   -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=c17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/c-template.dir/main.c.o -c /Users/mo/Development/c-template/main.c",
+  "file": "/Users/mo/Development/c-template/main.c"
+},
+{
+  "directory": "/Users/mo/Development/c-template/build",
+  "command": "/usr/bin/clang   -O2 -g -DNDEBUG -arch arm64 -isysroot /Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.0.sdk -std=c17 -Wall -Wextra -pedantic -Werror -o CMakeFiles/c-template.dir/src/armstrong_numbers.c.o -c /Users/mo/Development/c-template/src/armstrong_numbers.c",
+  "file": "/Users/mo/Development/c-template/src/armstrong_numbers.c"
+}
+]
